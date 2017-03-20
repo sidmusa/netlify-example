@@ -13,8 +13,6 @@ weight: 10
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis recusandae quos earum dolor voluptas saepe sit delectus enim repudiandae architecto distinctio itaque velit magni, ut amet accusamus aliquid laboriosam labore.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam reiciendis eveniet necessitatibus! Unde vero maiores, accusantium reprehenderit ex vitae dicta sunt nisi iure ab voluptate porro incidunt, aperiam pariatur consequatur.
-
 Here's an example:
 
 ```
