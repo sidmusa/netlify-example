@@ -1,5 +1,5 @@
 ---
-author: "Michael Henderson"
+author: "Ryan Watters"
 date: 2017-03-22
 linktitle: Creating a New Theme
 menu:
@@ -7,11 +7,15 @@ menu:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Up and Running with Netlify
+title: I am on Netlify; Boo-Yah!
 weight: 10
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis recusandae quos earum dolor voluptas saepe sit delectus enim repudiandae architecto distinctio itaque velit magni, ut amet accusamus aliquid laboriosam labore.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti delectus animi assumenda obcaecati facilis qui omnis ullam doloribus dicta sed natus, temporibus porro modi repudiandae necessitatibus totam sit quasi nihil?
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab placeat, repudiandae adipisci et magnam, eum voluptatibus voluptas dignissimos laborum fugiat debitis in hic voluptate quos ducimus! Natus suscipit dicta quisquam!
 
 Here's an example:
 
