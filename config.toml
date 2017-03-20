@@ -1,0 +1,53 @@
+archetypedir = "archetypes"
+baseurl = "/"
+buildDrafts = false
+buildFuture = false
+canonifyurls = true
+# Pointing to this file
+config = "config.toml"
+contentdir = "content"
+copyright = ""
+defaultContentLanguage = "en"
+# Set to true is you don't want livereload in local development
+disableLiveReload = false
+# Set to true to keep url path preserve casing (eg, for sections)
+disablePathToLower = false
+# Set to false if you want rss xml files auto-generated
+disableRSS = false
+# Set to false if you want a sitemap.xml created at the site root
+disableSitemap = false
+# Allows use of emoji shorthand directly in content
+enableEmoji = true
+# Set the unicode character used for the "return" link in page footnotes.
+footnotereturnlinkcontents = "↩"
+# Create an array of files you don't want hugo to build
+ignoreFiles = []
+languageCode = "en-us"
+# Point the generator to the folder used for layouts and templating
+layoutDir = "layouts"
+# Enable Logging
+log = true
+# Log Filepath (if set, logging enabled automatically)
+logFile = ""
+# This accepts yaml, toml, or json
+metaDataFormat = "yaml"
+# This intelligently adds an "s" to the titles of list pages
+pluralizelisttitles = false
+preserveTaxonomyNames = false
+# This sets the title of the directory where hugo builds and pushes the final site when running "Hugo" (ie, without "server")
+publishdir = "public"
+pygmentsUseClasses = true
+relativeURLs = true
+source = ""
+# Display memory and timing of different steps of the program
+stepAnalysis = true
+# This is the top-level, global site title
+title = "Netlify"
+# Change this once you've created your theme
+theme = "hucore"
+# Set to true to convert mysite/section/ to mysite/section.html
+uglyURLs = false
+verbose = false
+verboseLog = false
+# Setting this to false will keep hugo from watching for changes during local development
+watch = true
