@@ -44,7 +44,7 @@ stepAnalysis = true
 # This is the top-level, global site title
 title = "sidm"
 # Change this once you've created your theme
-theme = "hucore"
+theme = "after-dark"
 # Set to true to convert mysite/section/ to mysite/section.html
 uglyURLs = false
 verbose = false
