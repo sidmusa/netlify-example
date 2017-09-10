@@ -4,9 +4,7 @@ categories:
 - category
 date: 2017-09-10 21:21:16 +0000
 description: ''
-tags:
-- tag1
-- tag2
+tags: []
 title: Forestry is awesome
 
 ---
