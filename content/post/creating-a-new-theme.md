@@ -1,16 +1,18 @@
 ---
-author: "Ryan Watters"
-date: 2017-03-22
+author: Ryan Watters
+date: 2017-03-22 00:00:00 +0000
 linktitle: Creating a New Theme
+next: "/tutorials/github-pages-blog"
+prev: "/tutorials/automated-deployments"
+title: I am on Netlify; Boo-Yah!
+weight: 10
 menu:
   main:
     parent: tutorials
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
-title: I am on Netlify; Boo-Yah!
-weight: 10
----
+    weight: 10
+draft: true
 
+---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis recusandae quos earum dolor voluptas saepe sit delectus enim repudiandae architecto distinctio itaque velit magni, ut amet accusamus aliquid laboriosam labore.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti delectus animi assumenda obcaecati facilis qui omnis ullam doloribus dicta sed natus, temporibus porro modi repudiandae necessitatibus totam sit quasi nihil?
