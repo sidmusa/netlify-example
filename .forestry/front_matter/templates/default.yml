@@ -1,4 +1,6 @@
 ---
+pages:
+- post/forestry-is-awesome.md
 hide_body: false
 fields:
 - name: description
