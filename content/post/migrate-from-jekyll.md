@@ -1,14 +1,16 @@
 ---
-date: 2014-03-10
+date: 2014-03-10 00:00:00 +0000
 linktitle: Migrating from Jekyll
+prev: "/tutorials/mathjax"
+title: Jekyll is Overrated
+weight: 10
 menu:
   main:
     parent: tutorials
-prev: /tutorials/mathjax
-title: Jekyll is Overrated
-weight: 10
----
+    weight: 10
+draft: true
 
+---
 ## Move static content to `static`
 
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
