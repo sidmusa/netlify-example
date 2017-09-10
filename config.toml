@@ -42,7 +42,7 @@ source = ""
 # Display memory and timing of different steps of the program
 stepAnalysis = true
 # This is the top-level, global site title
-title = "Netlify"
+title = "sidm"
 # Change this once you've created your theme
 theme = "hucore"
 # Set to true to convert mysite/section/ to mysite/section.html
